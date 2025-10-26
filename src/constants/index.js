@@ -202,8 +202,8 @@ const testimonials = [
   {
     testimonial:
       "Parul consistently delivered high-quality Salesforce solutions with exceptional attention to detail. His ability to quickly grasp complex business logic and implement scalable features made him a valuable asset to our team.",
-    name: "Pratik Routray",
-    designation: "Associate Software Engineer",
+    name: "Vishal Kumar Thakur",
+    designation: "Practice Head",
     company: "Yamaha Motor Solutions India Pvt. Ltd.",
     image: user,
   },
