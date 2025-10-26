@@ -151,10 +151,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2024 - Present",
     points: [
-      "Developed and customized Salesforce Lightning components (LWC and Aura) to enhance usability and streamline insurance policy management workflows.",
-      "Built and maintained Apex classes, triggers, and batch processes to automate lead tracking, claim validation, and policy renewal operations.",
-      "Integrated Salesforce with third-party REST APIs to synchronize policy, customer, and telematics data across internal and external systems.",
-     "Designed custom objects, validation rules, and flows to ensure data integrity, reduce manual errors, and improve operational efficiency.",
+      "Developed a Flutter-based mobile application that integrates with a Salesforce-based Policy Management System, enabling real-time policy tracking, user authentication, and insurance operations.",
+      "Engineered beacon integration via device Wi-Fi to track ride distance, monitor user movement, and enforce safety protocols—critical for insurance telematics use-cases.",
+      "Implemented a safety riding score system based on metrics such as speed, distance, and ride duration, contributing to behavior-based insurance incentives.",
+     "Ensured seamless data synchronization between device sensors and backend APIs, optimizing battery usage and maintaining accuracy in ride analytics.",
     ],
   },
   {
@@ -201,7 +201,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Parul consistently delivered high-quality Salesforce solutions with exceptional attention to detail. His ability to quickly grasp complex business logic and implement scalable features made him a valuable asset to our team.",
+      "Parul consistently delivered high-quality Software solutions with exceptional attention to detail. His ability to quickly grasp complex business logic and implement scalable features made him a valuable asset to our team.",
     name: "Vishal Kumar Thakur",
     designation: "Practice Head",
     company: "Yamaha Motor Solutions India Pvt. Ltd.",
